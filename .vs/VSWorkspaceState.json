@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Views",
+    "\\Views\\Home"
   ],
-  "SelectedNode": "\\C:\\Users\\bhawa\\Desktop\\Bhawana Hundawal\\Github Projects\\ProductManage",
+  "SelectedNode": "\\Views\\Home\\Index.cshtml",
   "PreviewInSolutionExplorer": false
 }

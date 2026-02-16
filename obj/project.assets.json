@@ -6185,11 +6185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bhawa\\Desktop\\ASP.NET Core MVC Framework Tutorial\\ProductManagement\\ProductManagement.csproj",
+      "projectUniqueName": "C:\\Users\\bhawa\\Desktop\\Bhawana Hundawal\\Github Projects\\ProductManage\\ProductManagement.csproj",
       "projectName": "ProductManagement",
-      "projectPath": "C:\\Users\\bhawa\\Desktop\\ASP.NET Core MVC Framework Tutorial\\ProductManagement\\ProductManagement.csproj",
+      "projectPath": "C:\\Users\\bhawa\\Desktop\\Bhawana Hundawal\\Github Projects\\ProductManage\\ProductManagement.csproj",
       "packagesPath": "C:\\Users\\bhawa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bhawa\\Desktop\\ASP.NET Core MVC Framework Tutorial\\ProductManagement\\obj\\",
+      "outputPath": "C:\\Users\\bhawa\\Desktop\\Bhawana Hundawal\\Github Projects\\ProductManage\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
